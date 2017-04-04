@@ -24,7 +24,7 @@ namespace CoolForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+           //CECI EST UN COMMENTAIRE
         }
     }
 }
